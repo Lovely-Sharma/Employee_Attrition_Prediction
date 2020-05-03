@@ -10,4 +10,4 @@ statsmodels>=0.10.2
 imbalanced-learn>=0.4.3
 itsdangerous==1.1.0
 gunicorn==20.0.4
-Jinja>=2.11
+Jinja2==2.11
